@@ -1,0 +1,36 @@
+{
+  "name": "simons-extention-pallet",
+  "displayName": "Simon's Extention Pallet",
+  "description": "All the extentions I use for Vue and node development",
+  "version": "0.0.1",
+  "publisher": "iamsimonsmale",
+  "engines": {
+    "vscode": "^1.24.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionDependencies": [
+    "CoenraadS.bracket-pair-colorizer",
+    "alefragnani.Bookmarks",
+    "alexdima.copy-relative-path",
+    "christian-kohler.npm-intellisense",
+    "christian-kohler.path-intellisense",
+    "dbaeumer.vscode-eslint",
+    "eg2.vscode-npm-script",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-rename-tag",
+    "formulahendry.code-runner",
+    "jasonnutter.search-node-modules",
+    "maty.vscode-mocha-sidebar",
+    "msjsdiag.debugger-for-chrome",
+    "octref.vetur",
+    "robertohuertasm.vscode-icons",
+    "sdras.vue-vscode-extensionpack",
+    "sdras.vue-vscode-snippets",
+    "shyykoserhiy.vscode-spotify",
+    "waderyan.nodejs-extension-pack",
+    "WallabyJs.quokka-vscode",
+    "xabikos.JavaScriptSnippets"
+  ]
+}
